@@ -1,7 +1,7 @@
 ## 📊 GitHub Activity [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=changchangli-1thing&theme=vue&height=280&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=changchangli-1thing&show_icons=true&theme=radical&count_private=true" style="height: 200px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-three-sage-90.vercel.app/api?username=changchangli-1thing&show_icons=true&theme=radical&count_private=true" style="height: 200px;" alt="GitHub Stats" />
 </div>
 
 <!--
